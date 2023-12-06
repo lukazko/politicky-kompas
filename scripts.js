@@ -159,7 +159,7 @@ function getSoulmate(x,y) {
         {
             "id": 3,
             "img": "img/lukas.jpg",
-            "text": "Tvůj politický soulmate je Lukáš. Určitě jsi nasedl jsi na debilní módní vlnu kryptoanarchismu a skončíš tak ve světě bez silnic a plném dětských prostitutek. Celý březen se pravidelně v noci pomočuješ kvůli tomu, že se blíží odevzdání daňového přiznání. Tvoje holka ti pošle nudes, jen když si je zaplatíš na OnlyFans."
+            "text": "Tvůj politický soulmate je Lukáš. Určitě jsi nasedl na debilní módní vlnu kryptoanarchismu a skončíš tak ve světě bez silnic a plném dětských prostitutek. Celý březen se pravidelně v noci pomočuješ kvůli tomu, že se blíží odevzdání daňového přiznání. Tvoje holka ti pošle nudes, jen když si je zaplatíš na OnlyFans."
         },
         {
             "id": 4,
